@@ -7,10 +7,10 @@
 05) StringMethods
 06) Operators
 07) Boolean
-08) Conditionals-IfElse
+08) Conditionals IfElse
 09) Lists
 10) ControlStatements
-11) IO_andControlStatements
+11) IO and ControlStatements
 12) Dictionary
 13) Tuples
 14) Sets
