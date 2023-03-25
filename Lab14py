@@ -1,0 +1,13 @@
+# List
+
+marks = [91,89,92,67,41]
+
+print(marks)
+print(marks[0])
+print(marks[1])
+#print(marks[10])
+print(marks[-1])
+
+
+marks2 = [i for i in range(10) if i%2==0]
+print(marks2)
